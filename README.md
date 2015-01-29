@@ -1,5 +1,5 @@
 ## ~~Sublime Text~~
-# Slime Text #
+# Slime Text! #
 
 #### *The text editor that isn't quite as good as Sublime Text!*
 
@@ -8,4 +8,4 @@ A mini project that started as a result of one of my classes,
 
 ##Usage
 ####Print the [current] file's contents
-  ~$ p 
+```~$ p
