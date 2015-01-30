@@ -27,5 +27,5 @@
 
 
 ##Completed
-+ ~~Intro "Splash Art"
++ ~~Intro "Splash Art"~~
 + ~~Witty intro tagline~~
